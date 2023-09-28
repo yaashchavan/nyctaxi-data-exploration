@@ -10,7 +10,7 @@ Make sure you have the following dependencies installed before running the code:
 
 Python 3.x
 
-matplotlub
+matplotlib
 
 pandas
 
