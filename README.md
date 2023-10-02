@@ -18,7 +18,11 @@ Folium
 
 Dask
 
-You can install these dependencies using pip
+h3_pandas
+
+You can install these dependencies using pip/conda
+
+Uber H3 grids to analyse - https://github.com/DahnJ/H3-Pandas
 
 open-source taxi data - https://www.andresmh.com/nyctaxitrips/
 
