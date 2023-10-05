@@ -1,4 +1,4 @@
-# nytaxi-data-exploration
+# nyctaxi-data-exploration
 
 Description
 
@@ -19,6 +19,8 @@ Folium
 Dask
 
 h3_pandas
+
+scikit-learn
 
 You can install these dependencies using pip/conda
 
